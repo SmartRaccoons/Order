@@ -39,3 +39,7 @@ requirejs(["index"], function(Order) {
 });
 
 ```
+## Install
+```
+npm install Order
+```
